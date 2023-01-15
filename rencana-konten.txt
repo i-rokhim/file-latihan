@@ -1,5 +1,7 @@
 rencana konten ku
 - video javascript
+* ES6
+* frame work javascript
 - video php frame work
 - interview
 - vlog
