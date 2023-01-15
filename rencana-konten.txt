@@ -3,6 +3,7 @@ rencana konten ku
 * ES6
 * frame work javascript
   - vie
+    - react
 - Fundamentak struktur data
 - video php frame work
   * laravel
