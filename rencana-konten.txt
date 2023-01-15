@@ -2,7 +2,10 @@ rencana konten ku
 - video javascript
 * ES6
 * frame work javascript
+  - vie
 - Fundamentak struktur data
 - video php frame work
+  * laravel
 - interview
 - vlog
+- python
