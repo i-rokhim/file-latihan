@@ -2,3 +2,5 @@ File Latihan
 - Belajar menggunakan git dan github
 - Membuat web sederhana
 - Membuat web javascript.
+- Rencana membuat web pembelajaran
+- kolaborasi dengan pihak lain
